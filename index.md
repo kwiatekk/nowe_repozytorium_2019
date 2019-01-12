@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Cześć to jest gotowa templatka.
 
 You can use the [editor on GitHub](https://github.com/kwiatekk/nowe_repozytorium_2019/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
